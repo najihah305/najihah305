@@ -6,11 +6,11 @@ I’m passionate about creating practical applications and exploring how softwar
 
 🚀 What I’m Currently Working On
 
-  -📱 Full-stack applications using React, Angular & Python
-  -🤖 AI & data-driven features with Python & Machine Learning
-  -⚙️ Automation tools to simplify repetitive tasks
-  -📊 Data analytics dashboards using Power BI 
-  -🔌 Embedded systems (simulation-based) with Arduino logic
+  - 📱 Full-stack applications using React, Angular & Python
+  - 🤖 AI & data-driven features with Python & Machine Learning
+  - ⚙️ Automation tools to simplify repetitive tasks
+  - 📊 Data analytics dashboards using Power BI 
+  - 🔌 Embedded systems (simulation-based) with Arduino logic
 
 🧠 My Learning Approach
 
